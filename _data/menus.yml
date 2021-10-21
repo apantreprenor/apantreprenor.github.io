@@ -1,0 +1,24 @@
+main:
+  - name: "Acasă"
+    url: "/"
+    weight: 1
+  - name: "Servicii"
+    url: "/services/"
+    weight: 2
+  - name: "Echipa"
+    url: "/team/"
+    weight: 4
+  - name: "Despre Noi"
+    url: "/about/"
+    weight: 3
+  - name: "Contacte"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Acasă"
+    url: "/"
+    weight: 1
+  - name: "Contacte"
+    url: "/contact/"
+    weight: 2
