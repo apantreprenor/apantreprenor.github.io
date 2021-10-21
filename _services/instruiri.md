@@ -1,5 +1,5 @@
 ---
-title: "Instruire ODIMM"
+title: "Instruiri"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
@@ -7,7 +7,7 @@ weight: 1
 
 Activități și metode educaționale inovative pentru tinerii din regiuni
 
-![Instruire ODIMM](/images/odimm.jpg)
+<!-- ![Instruire ODIMM](/images/odimm.jpg) -->
 
 # Scopul proiectului 
 
