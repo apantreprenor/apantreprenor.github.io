@@ -26,6 +26,43 @@
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
   {% include ymetrika.html %}
 
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "{{ site.url }}",
+      "logo": "{{ page.image | absolute_url }}",
+      "name": "{{ page.title }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Pușkin 22, of.215",
+        "addressLocality": "Chișinău",
+        "addressRegion": "MD",
+        "postalCode": "MD-2001",
+        "addressCountry": "MD"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.02164,
+        "longitude": 28.83124
+      },
+      "telephone": "{{ site.data.contact.phone }}"
+    }
+    </script>
+
+
 </head>
 
 <body class='page {{layout.bodyClass}}'>
