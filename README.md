@@ -1,8 +1,5 @@
 
-## Installation
-
-
-To run the theme locally, navigate to the theme directory and run:
+To run the project locally, navigate to the project directory and run:
 
 ```
 bundle install
@@ -12,12 +9,17 @@ To start the Jekyll local development server.
 
 ```
 bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ``` 
 
-To build the theme.
- 
+To build static content
+
 ```
-bundle exec jekyll build
+jekyll build
 ```
 
-## Deployment
+Clean up your jekyll build and cache
+
+```
+bundle exec jekyll clean
+```
