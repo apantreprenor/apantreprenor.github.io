@@ -1,5 +1,5 @@
 ---
-title: Date de contat
+title: Date de contact
 layout: contact
 description: Contact
 ---
