@@ -25,3 +25,20 @@ Clean up your jekyll build and cache
 ```
 bundle exec jekyll clean
 ```
+
+Issues:
+---
+
+Edit the Gemfile.lock and remove the -x64-mingw32 for eventmachine
+
+```
+bundle config set install.eventmachine --platform=ruby
+bundle config set install.ffi --platform=ruby
+gem install eventmachine --platform ruby
+```
+
+gemfile.lock
+
+```
+gem install eventmachine --platform ruby
+```
