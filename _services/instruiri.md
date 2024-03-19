@@ -2,7 +2,7 @@
 title: "Instruiri"
 date: 2018-11-18T12:33:46+10:00
 featured: true
-weight: 3
+weight: 999
 ---
 
 Activități și metode educaționale inovative pentru tinerii din regiuni

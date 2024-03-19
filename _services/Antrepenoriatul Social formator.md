@@ -2,7 +2,7 @@
 title: "Formator Antrepenoriatul Social - punct forte în dezvoltarea durabilă a comunităților"
 date: 2023-08-28T15:57:46+10:00
 featured: true
-weight: 2
+weight: 998
 ---
 
 ![Finantat de Uniunea Europeana](/images/fue.png)
