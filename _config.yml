@@ -16,6 +16,8 @@ collections:
     output: true
   team:
     output: true
+  activities:
+    output: true
 
 defaults:
   - scope:
@@ -28,6 +30,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "activities"
+    values:
+      layout: "activity"
 
 sass:
   indentWidth: 4
