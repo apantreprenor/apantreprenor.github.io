@@ -11,11 +11,7 @@ bodyClass: "page-service"
         {% if page.video %}
     <div class="row justify-content-start pt-2">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        <iframe width="414" height="315" class="mw-100 mh-100" src="{{page.videourl}}"
-          title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-        </iframe>
+        <iframe width="414" height="315" src="{{page.videourl}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
     {% endif %}
