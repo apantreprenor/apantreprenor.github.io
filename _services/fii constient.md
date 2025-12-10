@@ -4,14 +4,10 @@ date: 2025-12-09T20:47:00+03:00
 featured: true
 weight: 995
 ---
-
-![cnam](/images/fiiconstient/2.jpg)
 ![image](/images/fiiconstient/1.jpg)
-
 În ultimele decenii, interesul pentru promovarea unui stil de viață sănătos a crescut semnificativ în contextul schimbărilor epidemiologice globale și al creșterii prevalenței bolilor cronice netransmisibile. Alimentația dezechilibrată, sedentarismul, consumul de substanțe nocive și lipsa unor practici elementare de prevenție contribuie anual la milioane de decese evitabile la nivel mondial, conform estimărilor Organizației Mondiale a Sănătății. Contrar acestor tendințe, numeroase studii demonstrează că, adoptarea unor comportamente sănătoase – precum alimentația echilibrată, activitatea fizică regulată, somnul adecvat, menținerea igienei personale – poate reduce semnificativ riscul de apariție a bolilor cardiovasculare, metabolice, oncologice și psihice. Astfel, stilul de viață nu reprezintă doar un set de alegeri individuale, ci un determinant esențial al stării de sănătate și al calității vieții.
 În acest context, promovarea unui stil de viață sănătos devine o prioritate majoră atât pentru politicile de sănătate publică, cât și pentru membrii comunităților, instituții educaționale, profesioniștii din domeniul medical. Adoptarea acestor comportamente este foarte importantă în rândul copiilor și adolescenților, perioadă în care se formează obiceiurile de durată și se stabilesc temeliile sănătății de mai târziu. Crearea unor medii favorabile, accesibile și educative are rolul de a facilita alegerile sănătoase și de a sprijini populația în menținerea lor. 
 Astfel, studiile privind comportamentele de sănătate la nivel comunitar devin instrumente esențiale pentru înțelegerea nevoilor populației și pentru fundamentarea intervențiilor eficiente. 
-![image](/images/fiiconstient/3.jpg)
 Prin urmare, analiza importanței stilului de viață sănătos trebuie privită nu doar prin prisma beneficiilor medicale imediate, ci și ca o investiție pe termen lung în bunăstarea individuală și colectivă. Construirea și consolidarea culturii sănătății reprezintă un demers complex, ce implică educație, responsabilitate socială și schimbare comportamentală, fiind indispensabile pentru dezvoltarea unei societăți reziliente și durabile.
 În cadrul proiectului ”Comunitate informată - viață sănătoasă” a fost realizată evaluarea gradului de menținere a modului sănătos de viață personală pentru aprecierea stării de sănătate și calității vieții în regiuni. A fost elaborat un chestionar tematic, completat benevol și anonim de către beneficiarii proiectului. Chestionarea cunoștințelor, atitudinilor și practicilor participanților la proiect, în raport cu problema abordată, a permis elaborarea unui studiu, care poate deveni bază pentru măsurile preventive în adoptarea unui mod de viață sănătos.
 Obiectivul studiului a constat în evaluarea deprinderilor alimentare, obiceiurilor de activitate fizică, percepțiilor asupra sănătății și practicilor de prevenție în rândul populației din zece raioane ale Republicii Moldova, vizate în proiect: Glodeni, Rîșcani, Fălești, Taraclia, Cantemir, Ștefan Vodă, Călărași, Hîncești, Basarabeasca și Anenii Noi. Eșantionul, format din 806 respondenți, oferă o bază solidă pentru analiza tendințelor comportamentale la nivel comunitar.
@@ -36,3 +32,6 @@ Informațiile colectate pot fi utilizate exclusiv în scop statistic, având ca 
 Aplicarea regulilor și principiilor unui mod sănătos de viață este o contribuție importantă în bunăstarea personală și dezvoltarea unei comunități sănătoase și durabile.
 Acest material a fost realizat în cadrul proiectului „Comunitate informată – viață sănătoasă”, finanțat din mijloacele financiare ale fondului de profilaxie și prevenire a îmbolnăvirilor al Companiei Naționale de Asigurări în Medicină și implementat de AO APA.
 ![image](/images/fiiconstient/4.jpg)
+![cnam](/images/fiiconstient/2.jpg)
+![image](/images/fiiconstient/3.jpg)
+![cnam](/images/fiiconstient/2.jpg)
