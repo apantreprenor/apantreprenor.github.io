@@ -2,7 +2,7 @@ main:
   - name: "Acasă"
     url: "/"
     weight: 1
-  - name: "Servicii"
+  - name: "Anunțuri"
     url: "/services/"
     weight: 2
   - name: "Echipa"
