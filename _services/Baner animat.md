@@ -7,12 +7,15 @@ video: true
 videourl: "https://www.youtube.com/embed/rx2a2GAvuNE"
 ---
 
-### Descrierea banerului
+### FII SMART – ALEGE SĂNĂTATEA!
 
-Banerul animat **„Stop alcool”** promovează campania **„Fii conștient – trăiește sănătos!” / „Comunitate informată – viață sănătoasă!”**, implementată de AO Asociația pentru Promovarea Antreprenoriatului (APA) cu susținerea financiară a **Companiei Naționale de Asigurări în Medicină (CNAM)** din fondul măsurilor de profilaxie.
+🚫 Alcoolul afectează organismul uman și poate avea consecințe grave asupra sănătății.
 
-Animația transmite mesajul de prevenire a consumului de alcool și de promovare a unui stil de viață sănătos — alternativă la comportamentele de risc, în special în rândul tinerilor.
+💚 Alege sănătatea. Alege familia. Alege un viitor fără vicii!
 
-Videoclipul de mai sus prezintă banerul în format animat, adaptat pentru distribuire pe rețelele sociale, TV și în instituțiile partenere din cele 10 raioane vizate de proiect.
+🌱 Fii informat.
+Fii responsabil.
 
-✅ Împreună dezvoltăm comunități informate, responsabile și sănătoase!
+📌 Banner animat, realizat în cadrul proiectului ”Comunități responsabile – Generații fără vicii”, finanțat de Compania Națională de Asigurări în Medicină, în coordonare cu Agenția Națională pentru Sănătate Publică, Universitatea de Stat de Medicină și Farmacie „Nicolae Testemițanu”, implementat de AO APA.
+
+🤝 Împreună pentru comunități responsabile și generații sănătoase!
